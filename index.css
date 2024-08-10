@@ -1,0 +1,33 @@
+body{
+    background-color: #D5E1EF;
+    }
+    
+    img{
+        margin-left: 10px;
+        margin-right: auto;
+        margin-top: 13px;
+        border-radius: 10px;
+    }
+    .qr{
+        width: 220px;
+        height: 430px;
+        margin-top: 80px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: white;
+        border-radius: 10px;
+        display: block;
+    }
+    span{
+        font-weight: bold;
+        font-family: Swis721 BT;
+        color: black;
+    }
+    p{
+        width: 182px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: Microsoft New Tai Lue;
+        color: grey;
+    }
